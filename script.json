@@ -1,0 +1,236 @@
+{
+    "Products":{
+          "1":{
+                      "id":1,
+                      "name": "1pc Double-Layered Star Pendant Necklace",
+                      "desc":"The Double-Layered Star Pendant Necklace features two star-shaped pendants on separate chains,creating a stylish, layered design. Made from materials like sterling silver or gold, it often includes sparkling accents for a celestial touch, making it perfect for both casual and formal occasions.",
+                      "material":"Crafted from high-quality metals such as sterling silver",
+                      "color":"Silver",
+                      "type": "Adjustable Chain Length",
+                      "sizes": "0.5 to 1 inch (1.2 to 2.5 cm) in diameter.",
+                      "Weight": "5 to 15 grams",
+                      "price":"₱1,769",
+                      "image":"../JewerlyImages/Necklace/1pc Double-Layered Star Pendant Necklace.png"
+          },
+          "2":{
+                      "id":2,
+                      "name":"1pc Elegant Black Butterfly Pendant Necklace",
+                      "desc":"The Elegant Black Butterfly Pendant Necklace is a stunning piece of jewelry designed to add a touch of grace and sophistication to any outfit",
+                          "material":"high-quality black pearl",
+                          "color":"Black",
+                          "type": "Adjustable Chain",
+                      "sizes": "1 to 1.5 inches (2.5 to 3.8 cm) in width and height.",
+                      "Weight": "Ranges from 5 to 10 grams",
+                      "price":"₱800",
+                      "image": "../JewerlyImages/Necklace/1pc Elegant Black Butterfly Pendant Necklace.png"
+          },
+          "3":{
+                      "id":3,
+                      "name": "2pcs Rectangle Decor Chain Necklace Stainless Steel (Black)",
+                      "desc":"The 2pcs Rectangle Decor Chain Necklace features sleek, modern designs with two separate necklaces, each showcasing a minimalist, industrial-inspired aesthetic",
+                          "material":"Made from high-quality stainless steel with a black matte finish",
+                          "color":"Black",
+                          "type": "Necklace",
+                      "sizes":"20 inches",
+                      "Weight": "20 grams",
+                      "price":"₱500",
+                      "image": "../JewerlyImages/Necklace/2pcs Rectangle Decor Chain Necklace Stainless Steel (Black).png"
+          },
+          "4":{
+                      "id":4,
+                      "name": "2pcs Rectangle Decor Chain Necklace Stainless Steel",
+                      "desc":"The 2pcs Rectangle Decor Chain Necklace is a modern and stylish jewelry set, designed with two necklaces featuring sleek rectangular links or pendants.",
+                          "material":"Crafted from high-quality black stainless steel",
+                          "color":"Silver",
+                          "type": "Necklace",
+                      "sizes":"20 inches",
+                      "Weight": "20 grams",
+                      "price":"₱500",
+                      "image": "../JewerlyImages/Necklace/2pcs Rectangle Decor Chain Necklace Stainless Steel.png"
+          },
+          "5":{   
+                      "id":5,
+                      "name": "Cross  Charm Necklace (Gold)",
+                      "desc":"a timeless and elegant piece of jewelry that features a cross-shaped charm as its focal point. The charm is often crafted in gold, adding a rich and radiant shine to the necklace.",
+                          "material":"Made from high-quality gold",
+                          "color":"Gold",
+                          "type": "Cross Necklace",
+                      "sizes":"1.5 inches",
+                      "Weight": "15 grams",
+                      "price":"₱6,000",
+                      "image": "../JewerlyImages/Necklace/Cross  Charm Necklace (Gold).png"
+          },
+          "6":{
+                      "id":6,
+                      "name": "Cross  Charm Necklace (Silver)",
+                      "desc":"a timeless and elegant piece of jewelry that features a cross-shaped charm as its focal point. The charm is often crafted in gold, adding a rich and radiant shine to the necklace.",
+                          "material":"Crafted from high-quality sterling silver",
+                          "color":"Silver",
+                          "type": "Cross Necklace",
+                      "sizes":"1.5 inches",
+                      "Weight": "15 grams",
+                      "price":"₱3,500",
+                      "image": "../JewerlyImages/Necklace/Cross  Charm Necklace (Silver).png"
+          },
+          "7":{
+                      "id":7,
+                      "name": "Double-Layered Star Pendant Necklace (Black)",
+                      "desc":"a stylish and trendy accessory that features two layers of chains, each adorned with a star pendant. The black finish adds a modern, chic touch to the design, giving it an edgy and versatile look.",
+                          "material":"high-quality stainless steel and black finish",
+                          "color":"Black",
+                          "type": "Double-Layered Chain",
+                      "sizes":"1 inches",
+                      "Weight": "15 grams",
+                      "price":"₱1,500",
+                      "image": "../JewerlyImages/Necklace/Double-Layered Star Pendant Necklace (Black).png"
+          },
+          "8":{
+                      "id":8,
+                      "name": "Elegant Blue Butterfly Pendant Necklace",
+                      "desc":"a delicate and graceful piece of jewelry that features a butterfly-shaped pendant with vibrant blue accents.",
+                          "material":"rhodium-plated metal",
+                          "color":"Blue",
+                          "type": "Butterfly Pendant",
+                      "sizes":"1.5 inches",
+                      "Weight": "15 grams",
+                      "price":"₱600",
+                      "image": "../JewerlyImages/Necklace/Elegant Blue Butterfly Pendant Necklace.png"
+          },
+          "9":{
+                      "id":9,
+                      "name": "Rhinestone and Rectangle Charm Layered Necklace (Silver)",
+                      "desc":"a stunning and contemporary piece of jewelry featuring two or more layers of delicate chains.",
+                          "material":"high-quality silver-plated metal",
+                          "color":"Silver",
+                          "type": "Adjustable Chain",
+                      "sizes":"1.5 inches",
+                      "Weight": "15 grams",
+                      "price":"₱500",
+                      "image": "../JewerlyImages/Necklace/Rhinestone and Rectangle Charm Layered Necklace (Silver).png"
+          },
+          "10":{
+                      "id": 10,
+                      "name": "1pc Assymetrical Beaded Bracelet",
+                      "desc":"a unique and stylish accessory that showcases an eclectic design with asymmetrical bead placement.",
+                          "material":"high-quality beads metal accents",
+                          "color":"Black",
+                          "type": "Bracelet",
+                      "sizes":"small",
+                      "Weight": "7 grams",
+                      "price":"₱150",
+                      "image": "../JewerlyImages/Bracelet/1pc Assymetrical Beaded Bracelet.png"
+          },
+          "11":{
+                      "id": 11,
+                      "name": "1pc Fashionable Snake Chain Stainless Steel Bracelet For Women, Sophisticated and Versatile Accessory",
+                      "desc":" an elegant and sophisticated piece of jewelry that effortlessly blends modern style with timeless appeal. Crafted from durable stainless steel, this bracelet features a sleek snake chain design",
+                          "material":"high-quality stainless steel",
+                          "color":"Gold",
+                          "type": "Adjustable Chain Style",
+                      "sizes":"7 inches",
+                      "Weight": "10 grams",
+                      "price":"₱300",
+                      "image": "../JewerlyImages/Bracelet/1pc Fashionable Snake Chain Stainless Steel Bracelet For Women, Sophisticated and Versatile Accessory.png"
+          },
+          "12":{
+                       "id": 12,
+                      "name": "1pc Minimalist Chain Bracelet",
+                      "desc":"The Minimalist Chain Bracelet is a sleek and modern accessory designed for those who appreciate simplicity and elegance in their jewelry",
+                          "material":"high-quality stainless steel",
+                          "color":"Silver",
+                          "type": "Chain Type Bracelet",
+                      "sizes":"6.5 inches",
+                      "Weight": "15 grams",
+                      "price":"₱400",
+                      "image": "../JewerlyImages/Bracelet/1pc Minimalist Chain Bracelet.png"
+          },
+          "13":{
+                      "id": 13,
+                      "name": "1pc Minimalist Link Chain Bracelet  For Men and Women",
+                      "desc":"a sleek, versatile accessory designed for both men and women who appreciate understated, contemporary style.",
+                          "material":"high-quality stainless steel",
+                          "color":"Silver",
+                          "type": "Link Chain",
+                      "sizes":"7 inches",
+                      "Weight": "10 grams",
+                      "price":"₱250",
+                      "image": "../JewerlyImages/Bracelet/1pc Minimalist Link Chain Bracelet  For Men and Women.png"
+          },
+          "14":{
+                      "id": 14,
+                      "name": "1pc Minimalist Link Chain Bracelet",
+                      "desc":"a stylish and contemporary accessory designed for those who appreciate clean, simple lines in their jewelry.",
+                          "material":"sterling silve",
+                          "color":"Silver",
+                          "type": "Link Chain",
+                      "sizes":"7 inches",
+                      "Weight": "15 grams",
+                      "price":"₱250",
+                      "image": "../JewerlyImages/Bracelet/1pc Minimalist Link Chain Bracelet.png"
+          },
+          "15":{
+                      "id": 16,
+                      "name": "1pc Rhinestone and Faux Pearl Decor Bracelet",
+                      "desc":"an elegant and sophisticated accessory designed to add a touch of glamour to any outfit. ",
+                          "material":"high-quality faux pearls and rhinestone",
+                          "color":"Silver, Gold",
+                          "type": "Bracelet",
+                      "sizes":"7 inches",
+                      "Weight": "10 grams",
+                      "price":"₱1500",
+                      "image": "../JewerlyImages/Bracelet/1pc Rhinestone and Faux Pearl Decor Bracelet.png"
+          },
+          "16":{
+                      "id": 17,
+                      "name": "2pcs Marching Couple Glow in the Dark Love inlaid Projection Beads Heart",
+                      "desc":"a unique and romantic piece of jewelry that features a glowing, heart-shaped bead with a love inlaid projection.",
+                          "material":"Resin, stainless steel, or alloy with glow-in-the-dark properties.",
+                          "color":"Black",
+                          "type": "Adjustable Bracelet",
+                      "sizes":"15 mm",
+                      "Weight": "Lightweight",
+                      "price":"₱150",
+                      "image": "../JewerlyImages/Bracelet/2pcs Marching Couple Glow in the Dark Love inlaid Projection Beads Heart.png"
+  
+          },
+          "17":{
+                      "id": 18,
+                      "name": "Fashion Assymmetrrical Beaded Bracelet",
+                      "desc":"a modern and trendy accessory that adds a unique touch to any outfit",
+                          "material":"Glass, wooden, metal, stone, or plastic beads.",
+                          "color":"Black",
+                          "type": "Bracelet Type",
+                      "sizes":"15 mm",
+                      "Weight": "Lightweight",
+                      "price":"₱300",
+                      "image": "../JewerlyImages/Bracelet/Fashion Assymmetrrical Beaded Bracelet.png"
+  
+          },
+          "18":{
+                      "id": 19,
+                      "name": "Minimalist Chain Bracelet",
+                      "desc":"features a simple, sleek design with subtle elegance.",
+                          "material":"high-quality silver-plated metal",
+                          "color":"Silver",
+                          "type": "Adjustable Chain",
+                      "sizes":"7 to 7.5 inches",
+                      "Weight": "15 grams",
+                      "price":"₱1,140",
+                      "image": "../JewerlyImages/Bracelet/Minimalist Chain Bracelet.png"
+  
+          },
+          "19":{
+                      "id": 20,
+                      "name": "Rhinestone and Faux Pearl Decor Bracelet",
+                      "desc":"a stunning and contemporary piece of jewelry featuring two or more layers of delicate chains.",
+                          "material":"high-quality gold-plated metal",
+                          "color":"Gold",
+                          "type": "Adjustable Chain",
+                      "sizes":"5.5 inches",
+                      "Weight": "15 grams",
+                      "price":"₱1,420",
+                      "image": "../JewerlyImages/Bracelet/Rhinestone and Faux Pearl Decor Bracelet.png"
+  
+          }
+        }
+}

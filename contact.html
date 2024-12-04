@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../JewerlyImages/logo1.png" type="image/png">
+    <title>Contact Us - Jewelry Shop</title>
+    <link rel="stylesheet" href="../css/contact.css">
+</head>
+<body>
+    <header>
+        <h1>Jewelry Shop</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or inquiries, please feel free to reach out to us using the form below or through our contact information.</p>
+            <h3>Get in Touch</h3>
+            <form action="submit_contact_form.php" method="POST">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <button type="submit">Send Message</button>
+            </form>
+            <h3>Contact Information</h3>
+            <p>Email: <a href="mailto:info@jewelryshop.com">info@jewelryshop.com</a></p>
+            <p>Phone: <a href="tel:+1234567890">+1 234 567 890</a></p>
+            <p>Address: 123 Jewelry Lane, Sparkle City, ST 12345</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Jewelry Shop</p>
+    </footer>
+</body>
+</html>
